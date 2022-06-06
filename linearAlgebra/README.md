@@ -11,4 +11,4 @@ It is divided into 3 parts:
 3. Eigenvalue and Eigenvector 
 4. Real-life example 
 
-To get started, refer to for detailed 
+For definition of key concepts, please refer to "Differential Equations and Linear Algebra" by Professor Strang ISBN: 9780980232776.
