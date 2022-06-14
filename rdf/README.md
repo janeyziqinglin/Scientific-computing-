@@ -20,5 +20,5 @@ To speed up the calculation, the code is parallelized and the sample plot is obt
 mpirun -np 4 python3 rdf.py
 
 Reference: 
-J. P. Hansen and I. R. McDonald, Theory of Simple Liquids,  2nd  Ed. (Academic Press, New York, 1986); D. A. McQuarrie, Statistical Mechanics. (Harper & Row, New York, 1976).![Uploading rdf_parallel.png…]()
+J. P. Hansen and I. R. McDonald, Theory of Simple Liquids,  2nd  Ed. (Academic Press, New York, 1986); D. A. McQuarrie, Statistical Mechanics. (Harper & Row, New York, 1976).
 
