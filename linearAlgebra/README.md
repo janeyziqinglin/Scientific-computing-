@@ -9,6 +9,5 @@ It is divided into 3 parts:
 1. Matrices Representation
 2. Matrix manipulation 
 3. Eigenvalue and Eigenvector 
-4. Real-life example 
 
 For definition of key concepts, please refer to "Differential Equations and Linear Algebra" by Professor Strang ISBN: 9780980232776.
