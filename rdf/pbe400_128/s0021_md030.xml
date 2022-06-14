@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fpmd:sample xmlns:fpmd="http://www.quantum-simulation.org/ns/fpmd/fpmd-1.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.quantum-simulation.org/ns/fpmd/fpmd-1.0 sample.xsd">
+<description> First atomset in PBE400 file s0021/md030.r  </description>
+<atomset>
+<unit_cell 
+    a=" 23.46000000   0.00000000   0.00000000"
+    b="  0.00000000  23.46000000   0.00000000"
+    c="  0.00000000   0.00000000  23.46000000" />
+<species name="oxygen" href="O_HSCV_PBE-1.0.xml"/>
+<species name="hydrogen" href="D_HSCV_PBE-1.0.xml"/>
+  <atom name="O1" species="oxygen">
+    <position> -8.08988526 -4.27213762 11.02893598 </position>
+    <velocity> 0.00005323 -0.00009878 0.00028646 </velocity>
+  </atom>
+  <atom name="O2" species="oxygen">
+    <position> 4.61193500 2.74917597 -4.89077671 </position>
+    <velocity> 0.00011929 -0.00017184 0.00008429 </velocity>
+  </atom>
+  <atom name="O3" species="oxygen">
+    <position> -15.38792980 2.59131827 2.14383092 </position>
+    <velocity> -0.00012208 0.00018271 0.00002591 </velocity>
+  </atom>
+  <atom name="O4" species="oxygen">
+    <position> 22.14089761 -12.19077225 -3.48320268 </position>
+    <velocity> -0.00002381 -0.00008183 -0.00013891 </velocity>
+  </atom>
+  <atom name="O5" species="oxygen">
+    <position> -6.78655501 -14.26268819 6.82407667 </position>
+    <velocity> 0.00010009 0.00009426 -0.00018311 </velocity>
+  </atom>
+  <atom name="O6" species="oxygen">
+    <position> 8.14318570 22.75765291 20.50043277 </position>
+    <velocity> -0.00013654 0.00014880 0.00039194 </velocity>
+  </atom>
+  <atom name="O7" species="oxygen">
+    <position> -13.52717921 -8.89592978 -23.17673504 </position>
+    <velocity> -0.00004371 0.00027441 -0.00003190 </velocity>
+  </atom>
+  <atom name="O8" species="oxygen">
+    <position> 6.80946237 17.22004987 12.73841291 </position>
+    <velocity> 0.00005786 0.00005427 0.00024527 </velocity>
+  </atom>
+  <atom name="O9" species="oxygen">
+    <position> -1.13078596 5.08915635 -12.86042204 </position>
+    <velocity> 0.00028842 0.00012665 -0.00018947 </velocity>
+  </atom>
+  <atom name="O10" species="oxygen">
+    <position> -5.67634757 0.08875125 12.04212119 </position>
+    <velocity> -0.00042105 -0.00022429 0.00050389 </velocity>
+  </atom>
+  <atom name="O11" species="oxygen">
+    <position> -0.29052471 -21.81219584 -4.95371707 </position>
+    <velocity> 0.00002213 0.00009478 -0.00020438 </velocity>
+  </atom>
+  <atom name="O12" species="oxygen">
+    <position> -5.93643303 11.63623950 -0.19342597 </position>
+    <velocity> -0.00015116 -0.00014500 0.00029986 </velocity>
+  </atom>
+  <atom name="O13" species="oxygen">
+    <position> -13.76288707 -9.38114836 7.94365290 </position>
+    <velocity> -0.00016316 -0.00001053 0.00021350 </velocity>
+  </atom>
+  <atom name="O14" species="oxygen">
+    <position> 2.46290383 -14.50480214 -9.51866030 </position>
+    <velocity> 0.00012546 0.00014336 0.00000666 </velocity>
+  </atom>
+  <atom name="O15" species="oxygen">
+    <position> 12.47374468 10.86647185 21.63708186 </position>
+    <velocity> 0.00023544 0.00015809 -0.00035661 </velocity>
+  </atom>
+  <atom name="O16" species="oxygen">
+    <position> 2.02121081 -17.21114279 6.56023311 </position>
+    <velocity> -0.00014497 0.00030086 0.00003347 </velocity>
+  </atom>
+  <atom name="O17" species="oxygen">
+    <position> -4.58277758 6.53996523 0.78246338 </position>
+    <velocity> 0.00013741 0.00010544 -0.00034233 </velocity>
+  </atom>
+  <atom name="O18" species="oxygen">
+    <position> 10.79365753 -2.43818077 10.60086264 </position>
+    <velocity> 0.00038971 -0.00057840 -0.00010558 </velocity>
+  </atom>
+  <atom name="O19" species="oxygen">
+    <position> 0.97300706 -4.89796093 7.29890601 </position>
+    <velocity> 0.00011976 -0.00011134 0.00012582 </velocity>
+  </atom>
+  <atom name="O20" species="oxygen">
+    <position> 11.28562869 -1.56163254 -18.11749297 </position>
+    <velocity> -0.00011462 0.00012820 -0.00027634 </velocity>
+  </atom>
+  <atom name="O21" species="oxygen">
+    <position> 2.48220492 -9.66995587 -20.33763209 </position>
+    <velocity> 0.00000416 -0.00028995 0.00024999 </velocity>
+  </atom>
+  <atom name="O22" species="oxygen">
+    <position> -24.02120690 -5.35288659 1.02034013 </position>
+    <velocity> -0.00030426 -0.00002315 -0.00008844 </velocity>
+  </atom>
+  <atom name="O23" species="oxygen">
+    <position> -12.23386866 1.17251312 14.61066175 </position>
+    <velocity> -0.00044930 0.00006148 -0.00028103 </velocity>
+  </atom>
+  <atom name="O24" species="oxygen">
+    <position> -9.76333750 4.34010703 -12.29401761 </position>
+    <velocity> 0.00011581 0.00010717 -0.00003944 </velocity>
+  </atom>
+  <atom name="O25" species="oxygen">
+    <position> -2.94835826 -15.18123889 -7.64082415 </position>
+    <velocity> 0.00026700 -0.00028561 0.00012276 </velocity>
+  </atom>
+  <atom name="O26" species="oxygen">
+    <position> 0.54707299 2.35565076 1.86557702 </position>
+    <velocity> -0.00018066 0.00018656 -0.00022917 </velocity>
+  </atom>
+  <atom name="O27" species="oxygen">
+    <position> 6.44949830 7.77540858 4.24640773 </position>
+    <velocity> 0.00007849 -0.00002241 0.00042996 </velocity>
+  </atom>
+  <atom name="O28" species="oxygen">
+    <position> 16.73474345 21.84832885 26.28129923 </position>
+    <velocity> 0.00003369 -0.00003874 0.00011123 </velocity>
+  </atom>
+  <atom name="O29" species="oxygen">
+    <position> -1.55646835 9.80455888 4.34309692 </position>
+    <velocity> 0.00010912 0.00008332 -0.00010809 </velocity>
+  </atom>
+  <atom name="O30" species="oxygen">
+    <position> 10.03993627 8.20850187 15.07698218 </position>
+    <velocity> -0.00018839 -0.00026220 0.00000278 </velocity>
+  </atom>
+  <atom name="O31" species="oxygen">
+    <position> -9.57272056 6.73838704 -5.84308307 </position>
+    <velocity> -0.00008289 -0.00008968 0.00014226 </velocity>
+  </atom>
+  <atom name="O32" species="oxygen">
+    <position> 5.45703362 0.66274887 -15.13536215 </position>
+    <velocity> -0.00019966 -0.00014784 -0.00024031 </velocity>
+  </atom>
+  <atom name="O33" species="oxygen">
+    <position> 13.38474051 17.24403384 6.12916969 </position>
+    <velocity> -0.00035526 0.00017969 -0.00014268 </velocity>
+  </atom>
+  <atom name="O34" species="oxygen">
+    <position> -12.61154143 10.00024918 4.25594456 </position>
+    <velocity> 0.00005941 0.00036047 0.00013631 </velocity>
+  </atom>
+  <atom name="O35" species="oxygen">
+    <position> 7.00689025 3.98946173 -9.25509240 </position>
+    <velocity> -0.00022742 -0.00000462 -0.00002751 </velocity>
+  </atom>
+  <atom name="O36" species="oxygen">
+    <position> -5.60751877 3.21726022 -15.34372946 </position>
+    <velocity> 0.00014615 0.00005825 -0.00028378 </velocity>
+  </atom>
+  <atom name="O37" species="oxygen">
+    <position> -1.91450276 -0.75828346 4.36839778 </position>
+    <velocity> -0.00013482 0.00009175 -0.00020427 </velocity>
+  </atom>
+  <atom name="O38" species="oxygen">
+    <position> 15.75913921 13.52408258 -7.14311841 </position>
+    <velocity> -0.00019412 0.00005797 -0.00011889 </velocity>
+  </atom>
+  <atom name="O39" species="oxygen">
+    <position> 9.63929409 4.22917647 -15.12392692 </position>
+    <velocity> 0.00038773 -0.00060482 -0.00005395 </velocity>
+  </atom>
+  <atom name="O40" species="oxygen">
+    <position> 8.93276728 -4.92068499 -5.85972894 </position>
+    <velocity> -0.00011709 -0.00002645 -0.00005145 </velocity>
+  </atom>
+  <atom name="O41" species="oxygen">
+    <position> 4.35815396 -1.17117307 1.05685949 </position>
+    <velocity> 0.00055389 0.00004209 0.00035183 </velocity>
+  </atom>
+  <atom name="O42" species="oxygen">
+    <position> 5.48220679 -11.12087832 -0.59414673 </position>
+    <velocity> 0.00013242 -0.00016507 -0.00012452 </velocity>
+  </atom>
+  <atom name="O43" species="oxygen">
+    <position> -9.81851346 16.92864186 -3.38994411 </position>
+    <velocity> 0.00007609 0.00028471 0.00003287 </velocity>
+  </atom>
+  <atom name="O44" species="oxygen">
+    <position> -12.36351341 5.33475438 -1.20633983 </position>
+    <velocity> -0.00035904 0.00003505 0.00020031 </velocity>
+  </atom>
+  <atom name="O45" species="oxygen">
+    <position> -3.48548253 -8.32353256 8.10985421 </position>
+    <velocity> 0.00015037 -0.00020169 -0.00019189 </velocity>
+  </atom>
+  <atom name="O46" species="oxygen">
+    <position> 21.51658826 -3.56866884 -3.80495056 </position>
+    <velocity> 0.00011619 -0.00012917 0.00028158 </velocity>
+  </atom>
+  <atom name="O47" species="oxygen">
+    <position> 6.50681767 11.99847482 14.41529963 </position>
+    <velocity> -0.00004435 0.00024301 -0.00016189 </velocity>
+  </atom>
+  <atom name="O48" species="oxygen">
+    <position> -8.07568622 3.66649014 3.83080822 </position>
+    <velocity> 0.00009357 -0.00014491 0.00010890 </velocity>
+  </atom>
+  <atom name="O49" species="oxygen">
+    <position> -17.26973520 7.35113441 -2.24048031 </position>
+    <velocity> -0.00012299 -0.00013871 -0.00016243 </velocity>
+  </atom>
+  <atom name="O50" species="oxygen">
+    <position> 4.95239093 13.42645189 8.75898041 </position>
+    <velocity> -0.00002544 -0.00028388 0.00023903 </velocity>
+  </atom>
+  <atom name="O51" species="oxygen">
+    <position> -10.46470321 1.51427081 -4.17491264 </position>
+    <velocity> 0.00020046 0.00006188 -0.00017720 </velocity>
+  </atom>
+  <atom name="O52" species="oxygen">
+    <position> 26.53128658 -25.37164671 -12.11606435 </position>
+    <velocity> 0.00014212 0.00006566 -0.00000775 </velocity>
+  </atom>
+  <atom name="O53" species="oxygen">
+    <position> -6.98082210 -2.65846984 -2.27761674 </position>
+    <velocity> -0.00031726 0.00030101 -0.00002091 </velocity>
+  </atom>
+  <atom name="O54" species="oxygen">
+    <position> 12.76586237 -11.76662488 12.14792961 </position>
+    <velocity> 0.00001031 0.00034373 -0.00014850 </velocity>
+  </atom>
+  <atom name="O55" species="oxygen">
+    <position> -4.43531825 -6.67969440 -9.30359216 </position>
+    <velocity> 0.00000291 -0.00005317 0.00021833 </velocity>
+  </atom>
+  <atom name="O56" species="oxygen">
+    <position> 0.17292670 33.92369481 9.45946848 </position>
+    <velocity> 0.00012237 -0.00014954 0.00015121 </velocity>
+  </atom>
+  <atom name="O57" species="oxygen">
+    <position> -17.76088258 -4.56909154 4.80628013 </position>
+    <velocity> 0.00011763 -0.00019004 0.00022066 </velocity>
+  </atom>
+  <atom name="O58" species="oxygen">
+    <position> 4.61540277 -8.63294891 -5.00120815 </position>
+    <velocity> -0.00030788 0.00002671 -0.00011379 </velocity>
+  </atom>
+  <atom name="O59" species="oxygen">
+    <position> -0.67932753 -31.65026066 -6.34732186 </position>
+    <velocity> -0.00038319 -0.00003403 0.00001939 </velocity>
+  </atom>
+  <atom name="O60" species="oxygen">
+    <position> -4.38046517 -19.08898028 -4.45733824 </position>
+    <velocity> 0.00008618 -0.00033311 -0.00007310 </velocity>
+  </atom>
+  <atom name="O61" species="oxygen">
+    <position> -6.19286480 -8.02086428 -20.37787341 </position>
+    <velocity> -0.00011163 -0.00015782 -0.00018284 </velocity>
+  </atom>
+  <atom name="O62" species="oxygen">
+    <position> -0.61342101 0.60260601 13.72555816 </position>
+    <velocity> -0.00018154 0.00023353 -0.00021665 </velocity>
+  </atom>
+  <atom name="O63" species="oxygen">
+    <position> -6.59821850 8.28518782 12.12194558 </position>
+    <velocity> -0.00007342 0.00010230 0.00012847 </velocity>
+  </atom>
+  <atom name="O64" species="oxygen">
+    <position> 1.56806990 -15.54464081 0.89263309 </position>
+    <velocity> 0.00018892 -0.00021595 0.00013368 </velocity>
+  </atom>
+  <atom name="H1" species="hydrogen">
+    <position> -8.51480842 -4.80573227 9.29403283 </position>
+    <velocity> 0.00035006 0.00099223 -0.00061259 </velocity>
+  </atom>
+  <atom name="H2" species="hydrogen">
+    <position> -6.60529987 -5.58074578 11.48070043 </position>
+    <velocity> 0.00044647 -0.00017831 0.00054903 </velocity>
+  </atom>
+  <atom name="H3" species="hydrogen">
+    <position> 2.83111393 2.35366609 -4.67793585 </position>
+    <velocity> -0.00056029 -0.00137547 -0.00070148 </velocity>
+  </atom>
+  <atom name="H4" species="hydrogen">
+    <position> 5.57732901 1.14630108 -4.57329518 </position>
+    <velocity> -0.00059066 -0.00021732 -0.00009966 </velocity>
+  </atom>
+  <atom name="H5" species="hydrogen">
+    <position> -16.59204238 1.17480608 1.61762632 </position>
+    <velocity> -0.00031293 -0.00006212 -0.00004871 </velocity>
+  </atom>
+  <atom name="H6" species="hydrogen">
+    <position> -16.53611867 4.01829308 2.33713366 </position>
+    <velocity> -0.00000702 -0.00009846 -0.00121554 </velocity>
+  </atom>
+  <atom name="H7" species="hydrogen">
+    <position> 20.60123959 -12.15754170 -2.49790254 </position>
+    <velocity> 0.00093123 -0.00056664 -0.00019187 </velocity>
+  </atom>
+  <atom name="H8" species="hydrogen">
+    <position> 21.69540407 -13.22906662 -5.04246727 </position>
+    <velocity> 0.00051527 0.00050124 -0.00059248 </velocity>
+  </atom>
+  <atom name="H9" species="hydrogen">
+    <position> -8.61116250 -14.40577301 7.01790999 </position>
+    <velocity> -0.00038330 0.00060590 0.00047568 </velocity>
+  </atom>
+  <atom name="H10" species="hydrogen">
+    <position> -6.30170756 -14.92232058 8.43540953 </position>
+    <velocity> 0.00121658 0.00033854 -0.00042979 </velocity>
+  </atom>
+  <atom name="H11" species="hydrogen">
+    <position> 8.85565610 21.38410554 19.42186530 </position>
+    <velocity> 0.00049339 0.00030841 -0.00032693 </velocity>
+  </atom>
+  <atom name="H12" species="hydrogen">
+    <position> 9.60090625 23.94569119 20.47595247 </position>
+    <velocity> 0.00086637 0.00039836 0.00022195 </velocity>
+  </atom>
+  <atom name="H13" species="hydrogen">
+    <position> -12.60569171 -10.31956131 -24.06715593 </position>
+    <velocity> -0.00029755 0.00010608 -0.00013270 </velocity>
+  </atom>
+  <atom name="H14" species="hydrogen">
+    <position> -12.83684221 -8.64651677 -21.52763354 </position>
+    <velocity> -0.00022200 0.00061336 0.00031373 </velocity>
+  </atom>
+  <atom name="H15" species="hydrogen">
+    <position> 7.15934472 15.41690820 13.51769328 </position>
+    <velocity> -0.00043518 0.00002876 -0.00028627 </velocity>
+  </atom>
+  <atom name="H16" species="hydrogen">
+    <position> 7.52331393 18.22834837 14.13988065 </position>
+    <velocity> 0.00108029 -0.00005059 -0.00019376 </velocity>
+  </atom>
+  <atom name="H17" species="hydrogen">
+    <position> 0.38956008 5.92142805 -13.65840346 </position>
+    <velocity> -0.00067006 0.00005483 0.00025191 </velocity>
+  </atom>
+  <atom name="H18" species="hydrogen">
+    <position> -1.81310545 6.40741278 -11.74179353 </position>
+    <velocity> 0.00045655 0.00093721 0.00036281 </velocity>
+  </atom>
+  <atom name="H19" species="hydrogen">
+    <position> -6.26184068 -1.44278037 11.26303226 </position>
+    <velocity> 0.00013301 0.00026705 0.00037081 </velocity>
+  </atom>
+  <atom name="H20" species="hydrogen">
+    <position> -3.84974341 -0.20907153 12.44062853 </position>
+    <velocity> -0.00100585 -0.00053929 -0.00055766 </velocity>
+  </atom>
+  <atom name="H21" species="hydrogen">
+    <position> -0.90387195 -23.53911085 -4.64612299 </position>
+    <velocity> 0.00017768 -0.00024907 -0.00143583 </velocity>
+  </atom>
+  <atom name="H22" species="hydrogen">
+    <position> -0.24775153 -21.81425635 -6.82567254 </position>
+    <velocity> -0.00041320 0.00127684 0.00018812 </velocity>
+  </atom>
+  <atom name="H23" species="hydrogen">
+    <position> -6.12204863 12.93391387 1.06923584 </position>
+    <velocity> 0.00008768 -0.00014372 0.00019850 </velocity>
+  </atom>
+  <atom name="H24" species="hydrogen">
+    <position> -5.83336563 9.97661121 0.65671859 </position>
+    <velocity> 0.00014020 0.00054810 0.00031330 </velocity>
+  </atom>
+  <atom name="H25" species="hydrogen">
+    <position> -13.60158472 -10.59116707 6.61251727 </position>
+    <velocity> -0.00028654 -0.00013563 0.00006811 </velocity>
+  </atom>
+  <atom name="H26" species="hydrogen">
+    <position> -15.50612772 -9.68509262 8.60318956 </position>
+    <velocity> -0.00082163 0.00057175 0.00117264 </velocity>
+  </atom>
+  <atom name="H27" species="hydrogen">
+    <position> 3.78704461 -13.21561503 -9.37360914 </position>
+    <velocity> -0.00062774 -0.00031712 -0.00017364 </velocity>
+  </atom>
+  <atom name="H28" species="hydrogen">
+    <position> 1.05124738 -14.11896571 -8.28624681 </position>
+    <velocity> -0.00028932 -0.00096689 0.00038100 </velocity>
+  </atom>
+  <atom name="H29" species="hydrogen">
+    <position> 12.15207061 9.02025078 21.18890643 </position>
+    <velocity> 0.00064096 -0.00054432 -0.00082027 </velocity>
+  </atom>
+  <atom name="H30" species="hydrogen">
+    <position> 14.20435442 11.37864472 21.32684341 </position>
+    <velocity> 0.00013906 0.00025602 -0.00037029 </velocity>
+  </atom>
+  <atom name="H31" species="hydrogen">
+    <position> 1.96084596 -18.94448655 5.91435037 </position>
+    <velocity> -0.00060453 0.00017139 -0.00049830 </velocity>
+  </atom>
+  <atom name="H32" species="hydrogen">
+    <position> 0.77531815 -16.25937125 5.78172574 </position>
+    <velocity> 0.00061350 0.00097120 0.00027761 </velocity>
+  </atom>
+  <atom name="H33" species="hydrogen">
+    <position> -5.84136306 5.59927403 1.88342946 </position>
+    <velocity> -0.00124295 0.00040388 0.00077103 </velocity>
+  </atom>
+  <atom name="H34" species="hydrogen">
+    <position> -2.97153231 6.24674569 1.71037307 </position>
+    <velocity> -0.00010158 0.00011321 0.00014285 </velocity>
+  </atom>
+  <atom name="H35" species="hydrogen">
+    <position> 9.24612377 -3.35236998 10.81794780 </position>
+    <velocity> 0.00004292 -0.00013211 -0.00080219 </velocity>
+  </atom>
+  <atom name="H36" species="hydrogen">
+    <position> 12.02001697 -3.54774522 11.49579436 </position>
+    <velocity> -0.00021296 0.00079232 -0.00034015 </velocity>
+  </atom>
+  <atom name="H37" species="hydrogen">
+    <position> 1.45535846 -4.85702472 9.08697503 </position>
+    <velocity> 0.00069606 -0.00055810 0.00057839 </velocity>
+  </atom>
+  <atom name="H38" species="hydrogen">
+    <position> -0.14150951 -6.36098933 6.94542068 </position>
+    <velocity> 0.00039677 0.00029547 -0.00118636 </velocity>
+  </atom>
+  <atom name="H39" species="hydrogen">
+    <position> 11.32077265 -0.80941992 -16.49508892 </position>
+    <velocity> 0.00023893 -0.00070843 0.00013759 </velocity>
+  </atom>
+  <atom name="H40" species="hydrogen">
+    <position> 10.78870971 -0.49020599 -19.42567090 </position>
+    <velocity> -0.00016760 -0.00068588 0.00037729 </velocity>
+  </atom>
+  <atom name="H41" species="hydrogen">
+    <position> 2.36447789 -10.69615031 -21.97043993 </position>
+    <velocity> -0.00019417 0.00008553 -0.00039388 </velocity>
+  </atom>
+  <atom name="H42" species="hydrogen">
+    <position> 4.25897254 -9.26968598 -20.65012107 </position>
+    <velocity> 0.00032280 0.00096141 0.00024786 </velocity>
+  </atom>
+  <atom name="H43" species="hydrogen">
+    <position> -23.63892529 -6.84548314 1.95654506 </position>
+    <velocity> 0.00115967 -0.00053699 0.00006394 </velocity>
+  </atom>
+  <atom name="H44" species="hydrogen">
+    <position> -24.77412156 -4.11453259 2.12755131 </position>
+    <velocity> -0.00083749 -0.00099720 0.00003842 </velocity>
+  </atom>
+  <atom name="H45" species="hydrogen">
+    <position> -13.82623899 1.96108744 14.15717318 </position>
+    <velocity> -0.00057933 0.00045698 -0.00046234 </velocity>
+  </atom>
+  <atom name="H46" species="hydrogen">
+    <position> -12.00292554 -0.44269744 13.58166500 </position>
+    <velocity> 0.00039780 0.00028903 -0.00043806 </velocity>
+  </atom>
+  <atom name="H47" species="hydrogen">
+    <position> -10.60311770 3.46687197 -10.75402819 </position>
+    <velocity> -0.00072413 -0.00014217 0.00132515 </velocity>
+  </atom>
+  <atom name="H48" species="hydrogen">
+    <position> -8.64096104 2.95282762 -12.94636406 </position>
+    <velocity> 0.00021817 0.00076665 -0.00016584 </velocity>
+  </atom>
+  <atom name="H49" species="hydrogen">
+    <position> -3.56039248 -16.56695010 -6.48557168 </position>
+    <velocity> 0.00011423 0.00032765 -0.00012283 </velocity>
+  </atom>
+  <atom name="H50" species="hydrogen">
+    <position> -4.33034774 -14.86812117 -8.73505200 </position>
+    <velocity> 0.00002958 0.00005018 0.00024653 </velocity>
+  </atom>
+  <atom name="H51" species="hydrogen">
+    <position> 1.93934555 1.17669035 1.37361436 </position>
+    <velocity> -0.00020963 -0.00005238 -0.00060482 </velocity>
+  </atom>
+  <atom name="H52" species="hydrogen">
+    <position> 1.01624065 3.84827438 0.81750269 </position>
+    <velocity> -0.00012057 -0.00077069 0.00095482 </velocity>
+  </atom>
+  <atom name="H53" species="hydrogen">
+    <position> 5.95525857 7.83154506 6.08714488 </position>
+    <velocity> -0.00047571 -0.00053066 0.00021574 </velocity>
+  </atom>
+  <atom name="H54" species="hydrogen">
+    <position> 4.95883553 8.21309008 3.40406565 </position>
+    <velocity> 0.00045662 0.00027893 -0.00011777 </velocity>
+  </atom>
+  <atom name="H55" species="hydrogen">
+    <position> 15.71522901 20.76344798 27.40223323 </position>
+    <velocity> -0.00008539 -0.00029888 0.00034038 </velocity>
+  </atom>
+  <atom name="H56" species="hydrogen">
+    <position> 18.35260866 22.22182889 27.14551136 </position>
+    <velocity> 0.00017925 -0.00077810 -0.00029586 </velocity>
+  </atom>
+  <atom name="H57" species="hydrogen">
+    <position> -0.79816385 10.73578301 5.76906099 </position>
+    <velocity> -0.00016807 0.00102705 -0.00042822 </velocity>
+  </atom>
+  <atom name="H58" species="hydrogen">
+    <position> -3.37727801 9.72167731 5.08083307 </position>
+    <velocity> 0.00011849 0.00028380 0.00097797 </velocity>
+  </atom>
+  <atom name="H59" species="hydrogen">
+    <position> 8.64306269 6.76787622 15.11838146 </position>
+    <velocity> 0.00088566 0.00080176 -0.00027459 </velocity>
+  </atom>
+  <atom name="H60" species="hydrogen">
+    <position> 11.49323692 7.42035291 15.98492002 </position>
+    <velocity> -0.00117556 0.00040441 0.00053465 </velocity>
+  </atom>
+  <atom name="H61" species="hydrogen">
+    <position> -8.07595835 7.21516218 -6.89888231 </position>
+    <velocity> -0.00052487 0.00016914 0.00025705 </velocity>
+  </atom>
+  <atom name="H62" species="hydrogen">
+    <position> -9.03991996 5.01205577 -5.43282458 </position>
+    <velocity> -0.00016461 0.00052757 -0.00017438 </velocity>
+  </atom>
+  <atom name="H63" species="hydrogen">
+    <position> 5.80843182 -0.50391625 -16.74766185 </position>
+    <velocity> 0.00033794 0.00070423 -0.00010768 </velocity>
+  </atom>
+  <atom name="H64" species="hydrogen">
+    <position> 6.86804146 1.96237762 -15.00632240 </position>
+    <velocity> -0.00064771 0.00039848 -0.00100972 </velocity>
+  </atom>
+  <atom name="H65" species="hydrogen">
+    <position> 12.60409750 18.77667552 5.36129603 </position>
+    <velocity> 0.00002938 0.00053458 -0.00056070 </velocity>
+  </atom>
+  <atom name="H66" species="hydrogen">
+    <position> 11.94530245 16.31730490 6.85031435 </position>
+    <velocity> -0.00007866 0.00013599 0.00037905 </velocity>
+  </atom>
+  <atom name="H67" species="hydrogen">
+    <position> -11.46598484 9.14219430 3.27114718 </position>
+    <velocity> 0.00054503 -0.00041418 0.00087135 </velocity>
+  </atom>
+  <atom name="H68" species="hydrogen">
+    <position> -14.28293422 9.23833833 3.84710715 </position>
+    <velocity> -0.00039505 0.00054660 0.00110312 </velocity>
+  </atom>
+  <atom name="H69" species="hydrogen">
+    <position> 6.04692236 4.83514595 -10.55022994 </position>
+    <velocity> 0.00003432 -0.00037039 0.00021133 </velocity>
+  </atom>
+  <atom name="H70" species="hydrogen">
+    <position> 5.90554603 3.46871727 -7.68886222 </position>
+    <velocity> 0.00078504 -0.00114218 0.00115243 </velocity>
+  </atom>
+  <atom name="H71" species="hydrogen">
+    <position> -5.18464740 1.64392206 -14.40049513 </position>
+    <velocity> -0.00025475 0.00003384 -0.00028480 </velocity>
+  </atom>
+  <atom name="H72" species="hydrogen">
+    <position> -4.23234862 4.32265390 -15.06961705 </position>
+    <velocity> 0.00006089 -0.00011699 -0.00046595 </velocity>
+  </atom>
+  <atom name="H73" species="hydrogen">
+    <position> -0.83680060 -1.54794242 5.65636031 </position>
+    <velocity> -0.00007656 0.00023428 -0.00072028 </velocity>
+  </atom>
+  <atom name="H74" species="hydrogen">
+    <position> -0.94630598 0.81130288 3.65176401 </position>
+    <velocity> 0.00158630 -0.00034526 -0.00025222 </velocity>
+  </atom>
+  <atom name="H75" species="hydrogen">
+    <position> 14.40289907 12.79973755 -8.15918304 </position>
+    <velocity> -0.00092770 0.00035205 0.00076503 </velocity>
+  </atom>
+  <atom name="H76" species="hydrogen">
+    <position> 15.13978016 14.55062228 -5.59981868 </position>
+    <velocity> -0.00067420 0.00027762 0.00037510 </velocity>
+  </atom>
+  <atom name="H77" species="hydrogen">
+    <position> 11.04780305 5.03632927 -13.97138472 </position>
+    <velocity> 0.00004072 0.00057468 -0.00034251 </velocity>
+  </atom>
+  <atom name="H78" species="hydrogen">
+    <position> 10.19989093 4.45991580 -16.83079380 </position>
+    <velocity> -0.00024354 0.00009067 0.00030743 </velocity>
+  </atom>
+  <atom name="H79" species="hydrogen">
+    <position> 10.53969462 -5.37935642 -5.18619847 </position>
+    <velocity> 0.00035524 0.00047527 -0.00011027 </velocity>
+  </atom>
+  <atom name="H80" species="hydrogen">
+    <position> 7.78543842 -6.14167465 -5.07278263 </position>
+    <velocity> 0.00032556 0.00021663 -0.00078880 </velocity>
+  </atom>
+  <atom name="H81" species="hydrogen">
+    <position> 4.54575660 -2.09003304 -0.54371058 </position>
+    <velocity> 0.00009066 -0.00004253 -0.00051868 </velocity>
+  </atom>
+  <atom name="H82" species="hydrogen">
+    <position> 5.14731296 -2.35148250 2.57387315 </position>
+    <velocity> 0.00021675 -0.00029038 -0.00068725 </velocity>
+  </atom>
+  <atom name="H83" species="hydrogen">
+    <position> 6.96413155 -9.97950120 -0.22841286 </position>
+    <velocity> -0.00067999 -0.00055175 0.00035401 </velocity>
+  </atom>
+  <atom name="H84" species="hydrogen">
+    <position> 6.09336603 -12.92261712 -0.64695038 </position>
+    <velocity> 0.00092162 0.00016238 0.00040112 </velocity>
+  </atom>
+  <atom name="H85" species="hydrogen">
+    <position> -10.74583490 16.21613004 -2.07908019 </position>
+    <velocity> -0.00034834 -0.00024799 0.00005176 </velocity>
+  </atom>
+  <atom name="H86" species="hydrogen">
+    <position> -8.82242380 18.49440013 -2.58387194 </position>
+    <velocity> 0.00061500 -0.00058642 -0.00076382 </velocity>
+  </atom>
+  <atom name="H87" species="hydrogen">
+    <position> -11.28436927 4.22861692 -2.11998903 </position>
+    <velocity> 0.00120117 0.00020261 -0.00042484 </velocity>
+  </atom>
+  <atom name="H88" species="hydrogen">
+    <position> -13.14580975 4.30963059 0.10613697 </position>
+    <velocity> -0.00022618 -0.00019228 -0.00003183 </velocity>
+  </atom>
+  <atom name="H89" species="hydrogen">
+    <position> -4.83438159 -8.87223251 6.93372554 </position>
+    <velocity> 0.00020525 -0.00035903 0.00047420 </velocity>
+  </atom>
+  <atom name="H90" species="hydrogen">
+    <position> -4.19199068 -7.62217774 9.61355060 </position>
+    <velocity> 0.00041710 -0.00004211 0.00034099 </velocity>
+  </atom>
+  <atom name="H91" species="hydrogen">
+    <position> 21.72945826 -4.28912523 -2.04074371 </position>
+    <velocity> 0.00004048 0.00048452 -0.00081528 </velocity>
+  </atom>
+  <atom name="H92" species="hydrogen">
+    <position> 22.07984566 -5.23742671 -4.49292550 </position>
+    <velocity> 0.00025966 -0.00124355 0.00016472 </velocity>
+  </atom>
+  <atom name="H93" species="hydrogen">
+    <position> 7.93348179 10.91394109 14.94319197 </position>
+    <velocity> -0.00054936 -0.00050969 0.00069599 </velocity>
+  </atom>
+  <atom name="H94" species="hydrogen">
+    <position> 5.62208963 12.64614575 16.02525511 </position>
+    <velocity> -0.00205803 0.00063917 -0.00059735 </velocity>
+  </atom>
+  <atom name="H95" species="hydrogen">
+    <position> -8.09900308 2.02213491 3.02482112 </position>
+    <velocity> 0.00134881 0.00045498 0.00027555 </velocity>
+  </atom>
+  <atom name="H96" species="hydrogen">
+    <position> -7.47432544 3.30467468 5.64805549 </position>
+    <velocity> -0.00023995 0.00045348 0.00030045 </velocity>
+  </atom>
+  <atom name="H97" species="hydrogen">
+    <position> -15.49201597 6.74971003 -2.15660882 </position>
+    <velocity> -0.00002551 -0.00026393 0.00026919 </velocity>
+  </atom>
+  <atom name="H98" species="hydrogen">
+    <position> -18.21387329 6.02175323 -2.86030362 </position>
+    <velocity> 0.00067412 0.00007517 0.00102314 </velocity>
+  </atom>
+  <atom name="H99" species="hydrogen">
+    <position> 3.70287572 12.97331040 7.46797772 </position>
+    <velocity> 0.00012756 -0.00067062 -0.00027263 </velocity>
+  </atom>
+  <atom name="H100" species="hydrogen">
+    <position> 4.33493378 12.92040733 10.39269727 </position>
+    <velocity> 0.00041995 0.00018543 -0.00042494 </velocity>
+  </atom>
+  <atom name="H101" species="hydrogen">
+    <position> -9.35488167 0.21599422 -3.32143536 </position>
+    <velocity> 0.00035270 -0.00076883 -0.00044547 </velocity>
+  </atom>
+  <atom name="H102" species="hydrogen">
+    <position> -10.59285973 0.86409708 -5.95258402 </position>
+    <velocity> -0.00059381 0.00016081 0.00067838 </velocity>
+  </atom>
+  <atom name="H103" species="hydrogen">
+    <position> 27.11734070 -26.70729311 -10.96419945 </position>
+    <velocity> 0.00030941 -0.00043578 0.00149402 </velocity>
+  </atom>
+  <atom name="H104" species="hydrogen">
+    <position> 28.05562847 -24.76186982 -13.05241679 </position>
+    <velocity> -0.00025334 -0.00069076 -0.00124947 </velocity>
+  </atom>
+  <atom name="H105" species="hydrogen">
+    <position> -6.82805036 -2.51302821 -0.41398611 </position>
+    <velocity> 0.00013981 0.00057544 -0.00067963 </velocity>
+  </atom>
+  <atom name="H106" species="hydrogen">
+    <position> -5.16016078 -2.90470691 -2.87469443 </position>
+    <velocity> 0.00027694 -0.00046350 -0.00047374 </velocity>
+  </atom>
+  <atom name="H107" species="hydrogen">
+    <position> 11.33330945 -12.94438160 12.69073849 </position>
+    <velocity> 0.00040468 0.00050179 0.00023934 </velocity>
+  </atom>
+  <atom name="H108" species="hydrogen">
+    <position> 12.05472892 -10.62813223 10.71686434 </position>
+    <velocity> 0.00029813 0.00035233 -0.00029147 </velocity>
+  </atom>
+  <atom name="H109" species="hydrogen">
+    <position> -4.91942917 -5.27604742 -8.19117569 </position>
+    <velocity> -0.00049621 -0.00046751 0.00055739 </velocity>
+  </atom>
+  <atom name="H110" species="hydrogen">
+    <position> -5.79525383 -7.91718395 -8.60410906 </position>
+    <velocity> 0.00065039 0.00045273 0.00154558 </velocity>
+  </atom>
+  <atom name="H111" species="hydrogen">
+    <position> -0.79466955 35.47273541 9.78696471 </position>
+    <velocity> 0.00036358 0.00037844 0.00046821 </velocity>
+  </atom>
+  <atom name="H112" species="hydrogen">
+    <position> 0.87560403 33.39682163 11.09054194 </position>
+    <velocity> 0.00034172 0.00010130 0.00083552 </velocity>
+  </atom>
+  <atom name="H113" species="hydrogen">
+    <position> -19.30883055 -4.35471491 5.86410321 </position>
+    <velocity> -0.00048836 -0.00050437 -0.00006068 </velocity>
+  </atom>
+  <atom name="H114" species="hydrogen">
+    <position> -16.59016440 -5.50260353 5.95820800 </position>
+    <velocity> -0.00046745 0.00078710 0.00057230 </velocity>
+  </atom>
+  <atom name="H115" species="hydrogen">
+    <position> 4.45173899 -9.41152416 -3.34368940 </position>
+    <velocity> 0.00078110 0.00096402 -0.00021202 </velocity>
+  </atom>
+  <atom name="H116" species="hydrogen">
+    <position> 3.05630954 -7.64793719 -5.47825893 </position>
+    <velocity> 0.00027828 0.00055221 -0.00070277 </velocity>
+  </atom>
+  <atom name="H117" species="hydrogen">
+    <position> -2.17450418 -31.27738788 -7.34244404 </position>
+    <velocity> -0.00009941 -0.00058064 0.00044204 </velocity>
+  </atom>
+  <atom name="H118" species="hydrogen">
+    <position> -1.10445594 -33.18109039 -5.36763571 </position>
+    <velocity> 0.00117647 0.00063314 -0.00060837 </velocity>
+  </atom>
+  <atom name="H119" species="hydrogen">
+    <position> -2.68061480 -19.90953417 -4.50664431 </position>
+    <velocity> -0.00026548 0.00006622 -0.00029670 </velocity>
+  </atom>
+  <atom name="H120" species="hydrogen">
+    <position> -4.39111268 -18.08916536 -2.78205359 </position>
+    <velocity> -0.00009899 0.00056608 -0.00044569 </velocity>
+  </atom>
+  <atom name="H121" species="hydrogen">
+    <position> -7.74657743 -7.51290629 -19.41591408 </position>
+    <velocity> 0.00070936 0.00027630 -0.00062522 </velocity>
+  </atom>
+  <atom name="H122" species="hydrogen">
+    <position> -5.29890980 -6.43063090 -20.88889558 </position>
+    <velocity> 0.00077726 -0.00042788 0.00035532 </velocity>
+  </atom>
+  <atom name="H123" species="hydrogen">
+    <position> 0.80395799 -0.46222132 13.05082367 </position>
+    <velocity> -0.00005754 -0.00077617 -0.00031348 </velocity>
+  </atom>
+  <atom name="H124" species="hydrogen">
+    <position> -0.60946143 2.19559298 12.91664382 </position>
+    <velocity> -0.00082207 0.00070869 -0.00066361 </velocity>
+  </atom>
+  <atom name="H125" species="hydrogen">
+    <position> -7.89362557 9.63609559 12.08022606 </position>
+    <velocity> 0.00079001 -0.00030028 -0.00052692 </velocity>
+  </atom>
+  <atom name="H126" species="hydrogen">
+    <position> -7.31386559 6.64310635 11.52161125 </position>
+    <velocity> -0.00096148 -0.00023563 0.00040377 </velocity>
+  </atom>
+  <atom name="H127" species="hydrogen">
+    <position> 0.10256416 -14.52887481 1.69353879 </position>
+    <velocity> 0.00128895 -0.00014995 -0.00018491 </velocity>
+  </atom>
+  <atom name="H128" species="hydrogen">
+    <position> 2.00768798 -14.57950134 -0.61231531 </position>
+    <velocity> 0.00007585 -0.00109068 0.00024810 </velocity>
+  </atom>
+</atomset>
+</fpmd:sample>
