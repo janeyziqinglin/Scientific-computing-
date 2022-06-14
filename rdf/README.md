@@ -1,4 +1,4 @@
-#Introduction:
+# Introduction
 Radial Distribution Function (RDF) is the probability of finding a pair of atoms a
 distance r apart relative to the probability for a completely uniform distribution. It is most commonly used in gasses,
 liquids, and solutions, since it can be used to calculate thermodynamic properties such as the internal energy 
